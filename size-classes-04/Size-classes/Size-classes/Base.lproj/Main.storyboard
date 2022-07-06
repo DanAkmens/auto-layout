@@ -58,11 +58,11 @@
                                         <nil key="highlightedColor"/>
                                         <variation key="heightClass=compact-widthClass=compact">
                                             <fontDescription key="fontDescription" name="HelveticaNeue-Thin" family="Helvetica Neue" pointSize="60"/>
-                                            <color key="textColor" systemColor="systemYellowColor"/>
+                                            <color key="textColor" systemColor="systemPurpleColor"/>
                                         </variation>
                                         <variation key="heightClass=compact-widthClass=regular">
                                             <fontDescription key="fontDescription" name="HelveticaNeue-Thin" family="Helvetica Neue" pointSize="60"/>
-                                            <color key="textColor" systemColor="systemYellowColor"/>
+                                            <color key="textColor" systemColor="systemPurpleColor"/>
                                         </variation>
                                     </label>
                                 </subviews>
@@ -168,8 +168,8 @@
         <systemColor name="systemGray3Color">
             <color red="0.7803921568627451" green="0.7803921568627451" blue="0.80000000000000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
-        <systemColor name="systemYellowColor">
-            <color red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        <systemColor name="systemPurpleColor">
+            <color red="0.68627450980392157" green="0.32156862745098042" blue="0.87058823529411766" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
